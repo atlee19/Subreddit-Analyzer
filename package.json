@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/atlee19/Subreddit-Analyzer/issues"
   },
-  "homepage": "https://github.com/atlee19/Subreddit-Analyzer#readme"
+  "homepage": "https://github.com/atlee19/Subreddit-Analyzer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
