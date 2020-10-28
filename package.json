@@ -1,0 +1,19 @@
+{
+  "name": "subreddit-analyzer",
+  "version": "1.0.0",
+  "description": "Undergrad research project to map the health of 2.2 million subreddits on the Reddit platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlee19/Subreddit-Analyzer.git"
+  },
+  "author": "Graham Atlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atlee19/Subreddit-Analyzer/issues"
+  },
+  "homepage": "https://github.com/atlee19/Subreddit-Analyzer#readme"
+}
