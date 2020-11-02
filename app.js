@@ -7,7 +7,7 @@ app.use(express.static(path.join(__dirname,'public')))
 
 
 app.post('/', function (req, res) {
-    console.log(req)
+    console.log(req.body)
     //we'll get the search query here
 
     //we'll call an object that fetches the data from reddit
